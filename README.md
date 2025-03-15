@@ -1,1 +1,1 @@
-# Gen-AI-With-Deep-Seek-R1
+# RAG project where i run llm locally via ollama
